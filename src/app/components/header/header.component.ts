@@ -11,4 +11,5 @@ export class HeaderComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
+  toggleAdd(): void {}
 }
